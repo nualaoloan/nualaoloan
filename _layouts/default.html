@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body itemscope itemtype="https://schema.org/WebPage">
+
+    {% include header.html %}
+    
+    <main class="page-content" itemprop="mainEntity">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

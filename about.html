@@ -1,0 +1,26 @@
+---
+layout: default
+title: About
+permalink: about/
+---
+<article class="post-card about-me" itemscope itemtype="http://schema.org/Person">
+  <img src="/images/nuala-o-loan-white-house.jpg" alt="Nuala O'Loan, White House" class="about-img" itemprop="image">
+
+  <h1 itemprop="name"><Baroness Nuala O’Loan DBE MRIA</h1>
+
+  <ul itemprop="description">
+	{% for experience in site.data.experiences %}
+	<li><p>{{ experience.description }}</p></li>
+	{% endfor %}
+  </ul>
+
+  <hr> 
+
+  <p>Baroness Nuala O'Loan has produced more than 100 articles and other publications on law, policing, faith and other issues. In the course of her work she has spoken widely at conferences, and acted in an advisory capacity to government agencies responsible for policing and police accountability in countries such as India, Brazil, Indonesia, South Africa, Uganda, Malaysia, USA, Canada, Finland, the Netherlands, Macedonia, Romania, the Republic of Ireland, Timor Leste, Spain, Portugal and throughout the United Kingdom.</p>
+  </br>
+  <p>She was a Counsellor and Marriage Preparation Facilitator for 16 years with ACCORD. She has spoken on matters of faith in England Scotland and Ireland, North and South.  She is a regular correspondent for the Irish Catholic.</p>
+  </br>
+  <p>She was awarded a DBE in 2008 and has received honorary degrees of LL.D from the University of Ulster, the New University of Ireland Maynooth, the Higher Education and Technical Awards Council, Ireland, and Queen's University Belfast. She received an award for her outstanding contribution to police accountability from the US organisation NACOLE. She was elected an Honorary Member of the Royal Dublin Society. She was awarded an Irish People of the Year Award and has received many other awards.</P>
+  </br>
+  <p>She is married to Declan O'Loan and they have 5 sons.</p>
+</article>

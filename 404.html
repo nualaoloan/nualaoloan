@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section class="no-route">
+  <h2>Oops! Seems something got lost somewhere!</h2>
+
+  <img class="no-result-img" src="{{ "images/ian_knox_cartoon.jpg" | preprend: site.baseurl }}" alt="Ian Knox Empty Chair Cartoon">
+
+  <a href="{{ site.baseurl }}"><p class="post-button">Let's just <strong>go back to home</strong>, shall we?</p></a>
+</section>
+
+<section class="home-links">
+  {% for link in site.data.home-links %}
+    {% unless forloop.last %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}<span>&nbsp;&#124;&nbsp;</span></a>
+    {% else %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}</a>
+    {% endunless %}
+  {% endfor %}
+</section>

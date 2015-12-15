@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="post" itemscope itemtype="https://schema.org/Article">
+  <header class="post-header">
+    <h3 class="post-title" itemprop="name">{{ page.title }}</h3>
+    <p class="post-meta">{% if page.location %}{{ page.location | append: ' | ' }}{% endif %}{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content" itemprop="mainEntity" itemprop="text">
+    {{ content }}
+  </article>
+
+  <div class="post-social-container">
+  	{% include social-shares.html %}
+  </div>
+</div>

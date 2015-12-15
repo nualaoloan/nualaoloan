@@ -1,0 +1,44 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Baroness Nuala O'Loan DBE MRIA">
+  <meta name="robots" content="index, follow">
+
+  <!-- Schema.org -->
+  <meta itemprop="name" content="{{ page.title | append: ' | ' }}{{ site.title }}">
+  <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}">
+  <!-- Twitter -->  
+  <meta itemprop="image" content="{% if page.category %}{{ "{{ page.category | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}"{% elsif page.type %}{{ "{{ page.type | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/ian_knox_cartoon.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.twitter_username }}">
+  <meta name="twitter:title" content="{{ site.title  | append: ' | '}}{{ page.title }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.introduction %}{{ page.introduction }}{% else %}{{ site.description | truncate: 160 }}{% endif %}">
+  <meta name="twitter:creator" content="{{ site.author }}">
+  <!-- Twitter Summary card images must be at least 120x120px -->
+  <meta name="twitter:image" content="{% if page.category %}{{ "{{ page.category | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}"{% elsif page.type %}{{ "{{ page.type | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/ian_knox_cartoon.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ site.title  | append: ' | '}}{{ page.title }}">
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{% if page.category %}{{ "{{ page.category | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}"{% elsif page.type %}{{ "{{ page.type | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/ian_knox_cartoon.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.introduction %}{{ page.introduction }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
+  <meta property="og:site_name" content="{[ site.title ]}" />
+  <meta property="article:tag" content="{{ page.title }}" />
+  <meta property="fb:admins" content="Facebook numberic ID" />
+
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+  <link rel="apple-touch-icon" href="http://localhost:4000/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="http://localhost:4000/favicon.png" />
+
+  <title>{{ page.title  | append: ' | '}}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:300,300italic,400' rel='stylesheet' type='text/css'>
+</head>

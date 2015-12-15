@@ -1,0 +1,71 @@
+---
+layout: default
+title: Home
+---
+<section class="hero">
+  <img src="{{ site.hero }}" alt="Nuala O'Loan cartoon by Ian Knox">
+  <div class="hero-texts">
+    <h1>Selected speeches, essays and articles</h1>
+    <a href="#home-posts" class="home-cta">Browse the Selection</a>
+  </div>
+</section>
+
+<section class="home-links">
+  {% for link in site.data.home-links %}
+    {% unless forloop.last %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}<span>&nbsp;&#124;&nbsp;</span></a>
+    {% else %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}</a>
+    {% endunless %}
+  {% endfor %}
+</section>
+
+<section  id="home-posts" class="post-list">
+  <h1 class="category-title">Recently Published</h1>
+  <ul class="grid-container">
+    
+  	<div class="one-half-col home-post-col">
+  	  {% for post in site.posts | limit:2 %}
+  	  <li class="post-card">
+
+        <p class="post-meta">{{ post.location | append: ' | ' }}{{ post.date | date: "%b %-d, %Y" }}</p>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p class="post-content">{{ post.content | truncatewords: 56 }}</p>
+
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-button">Keep Reading</a>
+      </li>
+      {% endfor %}
+    </div>
+
+    <div class="one-half-col home-post-col">
+      {% for post in site.posts | limit:2 | offset:2 %}
+  	  <li class="post-card">
+
+        <p class="post-meta">{{ post.location | append: ' | ' }}{{ post.date | date: "%b %-d, %Y" }}</p>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p class="post-content">{{ post.content | truncatewords: 56 }}</p>
+
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-button">Keep Reading</a>
+      </li>
+      {% endfor %}
+    </div>
+  </ul>
+</section>
+
+<section class="home-links">
+  {% for link in site.data.home-links %}
+    {% unless forloop.last %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}<span>&nbsp;&#124;&nbsp;</span></a>
+    {% else %}
+    <a href="{{ link.url | prepend: site.baseurl }}" class="home-category-link">{{ link.name }}</a>
+    {% endunless %}
+  {% endfor %}
+</section>

@@ -1,0 +1,69 @@
+---
+layout: default
+---
+  {% unless page.content == '' %}
+    <p>{{ page.content }}</p>
+  {% endunless %}
+  <section class="parallax-bg parallax-{{ page.type }}">
+    <div class="wrapper">
+      <h1 class="parallax-text">{{ page.title }}</h1>
+    </div>
+  </section>
+  
+  <h1 class="category-title">Featured Article</h1>
+  
+  <article class="parallax-content">
+    {% for post in site.categories[page.type] limit:1 %}
+      <div class="post-card">
+        
+        <p class="post-meta">{{ post.location }} | {{ post.date | date: "%b %-d, %Y" }}</p>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <section class="post-content">{{ post.content | truncatewords: 360 }}</section>
+
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-button">Keep Reading</a>
+
+        <div class="post-social-container">
+          {% include social-shares.html %}
+        </div>
+      </div>
+    {% endfor %}
+  </article>
+
+  <div class="parallax-bg parallax-{{ page.type }}">
+    <div class="wrapper">
+      <span class="parallax-text medium-text">{{ page.quote }}</span>
+    </div>
+  </div>
+  <h1 class="category-title">Articles, Speeches &amp; Essays</h1>
+  <article class="parallax-content">
+    <ul class="post-list">
+      {% for post in site.categories[page.type] offset:1 %}
+        <li class="post-card">
+          <div class="list-social-container">
+            {% include social-shares.html %}
+          </div>
+
+          <p class="post-meta">{{ post.location }} | {{ post.date | date: "%b %-d, %Y" }}</p>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+
+          <p class="post-content">{{ post.content | truncatewords: 56 }}</p>
+
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-button">Keep Reading</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+  {% for post in site.categories.[page.type] %}
+    <h2><a href=""></a></h2>
+    <p></p>
+  {% endfor %}
+</div>
+

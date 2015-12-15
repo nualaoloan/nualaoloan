@@ -1,0 +1,39 @@
+<header class="site-header">    
+    <nav id="site-nav">
+
+      <a id="site-title-touch" href="{{ site.url | prepend: site.baseurl }}/"><h1>{{ site.title }}</h1></a>
+      <a href="#" class="menu-icon">
+        <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+      <svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+          <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+          <title>Menu</title>
+          <defs>
+              <path d="M5.29023437,12.7757812 L5.30429687,12.7757812 L6.07539062,10.3875 L7.12304687,10.3875 L7.12304687,13.8 L6.33085937,13.8 L6.33085937,11.6015625 L6.31679687,11.5992187 L5.56445312,13.8 L5.03242187,13.8 L4.29414062,11.6320312 L4.28007812,11.634375 L4.28007812,13.8 L3.48789062,13.8 L3.48789062,10.3875 L4.52617187,10.3875 L5.29023437,12.7757812 Z M10.6613281,12.3398437 L9.45898437,12.3398437 L9.45898437,13.190625 L10.9003906,13.190625 L10.9003906,13.8 L8.66679687,13.8 L8.66679687,10.3875 L10.9027344,10.3875 L10.9027344,10.996875 L9.45898437,10.996875 L9.45898437,11.7304687 L10.6613281,11.7304687 L10.6613281,12.3398437 Z M15.1910156,13.8 L14.4011719,13.8 L13.1519531,11.653125 L13.1378906,11.6578125 L13.1378906,13.8 L12.3457031,13.8 L12.3457031,10.3875 L13.1378906,10.3875 L14.3871094,12.5320312 L14.4011719,12.5273437 L14.4011719,10.3875 L15.1910156,10.3875 L15.1910156,13.8 Z M19.5308594,10.3875 L19.5308594,12.6 C19.5308594,12.990627 19.4011732,13.2964833 19.1417969,13.5175781 C18.8824206,13.738673 18.5441427,13.8492187 18.1269531,13.8492187 C17.7066385,13.8492187 17.3660169,13.738673 17.1050781,13.5175781 C16.8441393,13.2964833 16.7136719,12.990627 16.7136719,12.6 L16.7136719,10.3875 L17.5082031,10.3875 L17.5082031,12.6 C17.5082031,12.8109386 17.5628901,12.970312 17.6722656,13.078125 C17.7816412,13.185938 17.9332022,13.2398437 18.1269531,13.2398437 C18.3191416,13.2398437 18.4687495,13.1863287 18.5757812,13.0792969 C18.682813,12.9722651 18.7363281,12.8125011 18.7363281,12.6 L18.7363281,10.3875 L19.5308594,10.3875 Z" id="path-1"></path>
+          </defs>
+          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+              <g id="Rectangle-1-+-Rectangle-1-Copy-2-+-MENU" sketch:type="MSLayerGroup">
+                  <rect id="Rectangle-1-Copy-2" fill="#F2F2F2" sketch:type="MSShapeGroup" x="0" y="18" width="24" height="6" rx="0.8"></rect>
+                  <rect id="Rectangle-1-Copy-3" fill="#F2F2F2" sketch:type="MSShapeGroup" x="0" y="0" width="24" height="6" rx="0.8"></rect>
+                  <g id="MENU">
+                      <use fill="#E6E6E6" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                      <use fill="none" xlink:href="#path-1"></use>
+                      <use fill="none" xlink:href="#path-1"></use>
+                      <use fill="none" xlink:href="#path-1"></use>
+                  </g>
+              </g>
+          </g>
+      </svg>
+      </a>
+
+      <div class="trigger">
+        {% for link in site.data.nav-links %}
+          {% unless forloop.last %}
+            <a class="page-link" href="{{ link.url | prepend: site.baseurl }}"><h2>{{ link.name }}</h2></a>
+            <span> | </span>
+          {% else %}
+            <a class="page-link" href="{{ link.url | prepend: site.baseurl }}"><h2>{{ link.name }}</h2></a>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </nav>
+</header>
