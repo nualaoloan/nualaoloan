@@ -1,2 +1,2 @@
 # nualaoloan
-A personal site for Nuala O'Loan
+The official website of Baroness Nuala O'Loan
