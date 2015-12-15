@@ -609,7 +609,7 @@ section.home-links:last-of-type {
   background-size: cover;
   @include media-query($on-tablet) {
     height: 360px;
-    background-position: 50% 40%;
+    background-attachment: scroll;
   }
   @include media-query($on-mobile) {
     height: 200px;
