@@ -23,7 +23,7 @@
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:image" content="{% if page.category %}{{ "{{ page.category | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}"{% elsif page.type %}{{ "{{ page.type | append: '.jpg' | prepend: 'images/nuala-o-loan-' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/ian_knox_cartoon.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.introduction %}{{ page.introduction }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
-  <meta property="og:site_name" content="{[ site.title ]}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="article:tag" content="{{ page.title }}" />
   <meta property="fb:admins" content="Facebook numberic ID" />
 
@@ -34,8 +34,8 @@
   <title>{{ page.title  | append: ' | '}}{{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "css/normalize.css" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl | prepend: site.url }}">
   
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
