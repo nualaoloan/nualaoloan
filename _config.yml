@@ -7,7 +7,8 @@ open-source: "Open Source"
 hero: "/images/ian_knox_cartoon.jpg"
 
 baseurl: # the subpath of your site, e.g. /blog/
-url: http://nualaoloan.com/ # the base hostname & protocol for your site
+url: https://nualaoloan.com/ # the base hostname & protocol for your site
+enforce_ssl: www.nualaoloan.com
 paginate: 5
 
 # Gems
