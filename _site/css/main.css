@@ -366,19 +366,6 @@ nav#site-nav a#site-title-touch h1 {
   .site-footer p {
     font-size: 1em; }
 
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
-  color: #fdfdfd; }
-  .contact-list li,
-  .social-media-list li {
-    display: inline-block;
-    margin-left: 15px; }
-    .contact-list li > :last-child,
-    .social-media-list li > :last-child {
-      margin-right: 15px; }
-
 .footer-col-wrapper {
   font-size: 15px;
   color: #fdfdfd;
@@ -387,6 +374,11 @@ nav#site-nav a#site-title-touch h1 {
   .footer-col-wrapper a {
     color: #fdfdfd;
     text-decoration: none; }
+  .footer-col-wrapper h2.footer-title {
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: #fdfdfd; }
 
 .footer-col {
   float: left;
@@ -682,7 +674,7 @@ section.hero {
       section.hero a.home-cta {
         display: none; }
       section.hero h1 {
-        font-size: 2.4rem; } }
+        font-size: 2.1rem; } }
 
 .home-links {
   max-width: 90%;
@@ -738,7 +730,7 @@ section.home-links:last-of-type {
   @media screen and (max-width: 800px) {
     .parallax-bg {
       height: 360px;
-      background-position: 50% 40%; } }
+      background-attachment: scroll; } }
   @media screen and (max-width: 600px) {
     .parallax-bg {
       height: 200px; } }

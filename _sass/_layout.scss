@@ -77,7 +77,7 @@
         }
       }
       @include media-query($on-mobile) {
-        padding-top: 15px;        
+        padding-top: 15px;
       }
     }
 
@@ -138,21 +138,6 @@ nav#site-nav a#site-title-touch h1 {
   }
 }
 
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
-  color: $white-color;
-  li {
-    display: inline-block;
-    margin-left: $spacing-unit / 2;
-
-    > :last-child {
-      margin-right: $spacing-unit / 2;
-    }
-  }
-}
-
 .footer-col-wrapper {
   font-size: 15px;
   color: $white-color;
@@ -162,6 +147,12 @@ nav#site-nav a#site-title-touch h1 {
   a {
     color: $white-color;
     text-decoration: none;
+  }
+  h2.footer-title {
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: $white-color;
   }
 }
 
@@ -225,7 +216,7 @@ nav#site-nav a#site-title-touch h1 {
   .footer-col-3 {
     width: 33.33333333%;
   }
-  
+
    .footer-col-4 {
     width: 33.33333333%;
   }
@@ -266,7 +257,7 @@ nav#site-nav a#site-title-touch h1 {
   background: $red-color;
   color: $white-color;
   opacity: 0.7;
-  padding: $spacing-unit/3 $spacing-unit;  
+  padding: $spacing-unit/3 $spacing-unit;
 }
 
 /**
@@ -290,7 +281,7 @@ h1.category-title {
 }
 
 .post-list {
-  width: 100%; 
+  width: 100%;
 }
 
 .post-card {
@@ -305,7 +296,7 @@ h1.category-title {
   h2 {
     clear: none;
   }
-  
+
   ul {
     list-style: none;
     margin-bottom: $spacing-unit / 2;
@@ -487,7 +478,7 @@ section.hero {
   text-align: center;
   width: 80%;
   margin-left: 10%;
-  margin-top: -$spacing-unit; 
+  margin-top: -$spacing-unit;
   img {
     width: 100%;
   }
@@ -502,7 +493,7 @@ section.hero {
     }
   }
   h1 {
-    padding: $spacing-unit/2 $spacing-unit;  
+    padding: $spacing-unit/2 $spacing-unit;
     font-family: $base-font-family;
     font-size: 3.4rem;
     font-weight: 300;
@@ -692,8 +683,8 @@ article.about-me {
     margin: $spacing-unit $spacing-unit;
   }
   @include media-query($on-tablet) {
-    margin-top: 60px; 
-  } 
+    margin-top: 60px;
+  }
   @include media-query($on-mobile) {
     img.about-img {
       float: none;
