@@ -136,8 +136,8 @@ nav#site-nav a#site-title-touch h1 {
   p {
     font-size: 1em;
   }
-  h2 {
-    margin: 0 auto;
+  div.wrapper h2 {
+    text-align: center;
     color: $white-color;
   }
 }
