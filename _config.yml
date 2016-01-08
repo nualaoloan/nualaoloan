@@ -59,7 +59,7 @@ prose:
           value: "post"
       - name: "categories"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Choose a category"
           options:
             - name: "Conflict Resolution"
