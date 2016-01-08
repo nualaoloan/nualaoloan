@@ -61,7 +61,6 @@ prose:
         field:
           element: "multiselect"
           label: "Choose a category"
-          placeholder: "Choose Tags"
           options:
             - name: "Conflict Resolution"
               value: "conflict-resolution"
