@@ -21,3 +21,62 @@ markdown: kramdown
 
 # Set URL structure for categories and their posts
 permalink: /:categories/:title/
+
+# Prose.io configuration settings
+prose:
+  rooturl: '_posts' # Prose root folder
+  siteurl: 'https://www.nualaoloan.com/' # Preview site
+  media: '/images' # Default media folder
+  ignore: # Non-editable contents
+    - _config.yml
+    - 404.html
+    - about.html
+    - apple-touch-icon.png
+    - CNAME
+    - favicon.ico
+    - favicon.png
+    - feed.xml
+    - Gemfile
+    - Gemfile.lock
+    - index.html
+    - README.md
+    - /_data
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /_site
+    - /.git
+    - /.sass-cache
+    - /conflict-resolution
+    - /css
+    - /faith
+    - /policing
+  metadata: # YAML front matter defaults
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Choose a category"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Conflict Resolution"
+              value: "conflict-resolution"
+            - name: "Faith"
+              value: "faith"
+            - name: "Policing"
+              value: "policing"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "The title of your post"
+      - name: "location"
+        field:
+          element: "text"
+          label: "Location"
+          placeholder: "A venue or publication name"
+  
