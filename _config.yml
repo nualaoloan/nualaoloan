@@ -26,7 +26,7 @@ permalink: /:categories/:title/
 prose:
   rooturl: '_posts' # Prose root folder
   siteurl: 'https://www.nualaoloan.com/' # Preview site
-  media: '/images' # Default media folder
+  media: 'images' # Default media folder
   ignore: # Non-editable contents
     - _config.yml
     - 404.html
