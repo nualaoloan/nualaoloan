@@ -70,7 +70,6 @@ nav li > ol {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-weight: 400;
-  text-align: left;
   font-family: "Playfair Display", serif;
   clear: both; }
 
@@ -365,6 +364,9 @@ nav#site-nav a#site-title-touch h1 {
   bottom: 0; }
   .site-footer p {
     font-size: 1em; }
+  .site-footer div.wrapper h2 {
+    text-align: center;
+    color: #fdfdfd; }
 
 .footer-col-wrapper {
   font-size: 15px;
@@ -407,7 +409,7 @@ nav#site-nav a#site-title-touch h1 {
 
 @media screen and (max-width: 800px) {
   .site-footer {
-    padding: 0; }
+    padding: 15px 0 0; }
 
   .footer-col-1 {
     width: 100%; }
@@ -544,7 +546,6 @@ a.post-button:hover {
   background: #fdfdfd;
   color: #a00c30;
   font-weight: 400;
-  max-width: 50%;
   border-left: 1px solid #a00c30;
   border-right: 1px solid #a00c30; }
 
@@ -679,10 +680,12 @@ section.hero {
   text-align: center;
   border-left: 2px solid #a00c30;
   border-right: 2px solid #a00c30; }
+  .home-links * {
+    box-sizing: border-box; }
   .home-links span {
     color: #a00c30; }
   .home-links a:hover {
-    font-weight: 400; }
+    color: #a00c30; }
   @media screen and (max-width: 800px) {
     .home-links {
       font-size: 3rem; } }

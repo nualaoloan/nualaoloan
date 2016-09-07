@@ -199,7 +199,7 @@ nav#site-nav a#site-title-touch h1 {
 @include media-query($on-tablet) {
   .site-footer {
     padding: $spacing-unit/2 0 0;
-  } 
+  }
   .footer-col-1 {
     width: 100%;
     p {
@@ -370,7 +370,6 @@ a.post-button:hover {
   background: $white-color;
   color: $red-color;
   font-weight: 400;
-  max-width: 50%;
   border-left: 1px solid $red-color;
   border-right: 1px solid $red-color;
 }
@@ -529,6 +528,9 @@ section.hero {
 }
 
 .home-links {
+  * {
+    box-sizing: border-box;
+  }
   max-width: 90%;
   margin: $spacing-unit 5% 0;
   padding: $spacing-unit/2;
@@ -540,7 +542,7 @@ section.hero {
     color: $red-color;
   }
   a:hover {
-    font-weight: 400;
+    color: $red-color;
   }
   @include media-query($on-tablet) {
     font-size: 3rem;
