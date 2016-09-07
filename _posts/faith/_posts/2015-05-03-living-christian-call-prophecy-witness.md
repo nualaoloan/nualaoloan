@@ -12,7 +12,7 @@ You asked me to talk today about 'Living the Christian call: prophecy and witnes
 
 He ambled on to an empty stage and sat on the only piece of furniture on it - a tall bar stool. Then he explained that he was so old that he needed to sit down. Then he began to talk and he talked for about 50 minutes on the theme ‘Jesus loves you’, and you could have heard a pin drop. None of the normal shuffling and whispering and texting etc! Just absolute silence. It was extraordinary. Until, having told his life story and explained who he was and what his life had been, he asked the question, “who could love me?” and a little voice piped up “I love you”. It was little girl of 15 or so who has Downs Syndrome. She articulated what everyone thought. For he had described a life of many challenges and ultimately great heroism and incredible gentleness.
 
-I am sure that you all know his story. For Jean Vanier was the man who established the L’Arche community which now provides homes for people with learning and physical disabilities where they live with able bodied people who live with them and facilitate their lives, whatever it takes. And some of them are so profoundly disabled that it takes an awful lot. But those who work with them learn what Jean Vanier learned early on in his life. 
+I am sure that you all know his story. For Jean Vanier was the man who established the L’Arche community which now provides homes for people with learning and physical disabilities where they live with able bodied people who live with them and facilitate their lives, whatever it takes. And some of them are so profoundly disabled that it takes an awful lot. But those who work with them learn what Jean Vanier learned early on in his life.
 
 Dr James D Conley, speaking in Nebraska 2013 said:
 
@@ -26,21 +26,21 @@ Pope Francis in his text on the opening of the Holy Year of Consecrated Life, la
 
 > "I invite every Christian community to experience this Year above all as a moment of thanksgiving to the Lord and grateful remembrance for all the gifts we continue to receive, thanks to the sanctity of founders and foundresses, and from the fidelity to their charism shown by so many consecrated men and women. I ask all of you to draw close to these men and women, to rejoice with them, to share their difficulties and to assist them, to whatever degree possible, in their ministries and works, for the latter are, in the end, those of the entire Church. Let them know the affection and the warmth which the entire Christian people feels for them."
 
-And I think that that is what we are doing today. We are celebrating with the Presentation Sisters their achievements and their charism which could well be described as prophecy and witness, for the way in which they have chosen to lead their lives has been inspired by Christ. 
+And I think that that is what we are doing today. We are celebrating with the Presentation Sisters their achievements and their charism which could well be described as prophecy and witness, for the way in which they have chosen to lead their lives has been inspired by Christ.
 
 Just think about it. In 1754 a woman of 36 began a school for 30 poor children, secretly, in defiance of the Penal Laws. Within a year she had 200 students. Within 15 years, 7 schools here in Cork. They were a way fighting the root causes of poverty and the systemic injustice of the Penal Laws. She knew that children needed to learn that they were loved and valued, and that they needed skills and talents to earn their living, and in all that she did, she told them about Jesus, about his blessed Mother Mary, about God and about the power of the Holy Spirit. And, if that were not enough she visited the sick, the elderly, the imprisoned and the destitute – often at night, walking through the dark and dangerous streets of Cork by the light of a flickering lantern. Then in 1783 she built a home for aged and destitute women.
 
 > a male-dominated society in which what she was doing in establishing schools was against the law
 
-What an achievement in 18th century Ireland, an Ireland of immense poverty and deprivation, an Ireland in which there was little in the way of policing and protection for the poor and those who sought to help them, a male-dominated society in which what she was doing in establishing schools was against the law. But she knew it was morally right. Prophetically she led people to understand what needed to be done, she witnessed by doing it and she did it all in the name of the Lord Jesus. So that was prophecy and witness. 
- 
+What an achievement in 18th century Ireland, an Ireland of immense poverty and deprivation, an Ireland in which there was little in the way of policing and protection for the poor and those who sought to help them, a male-dominated society in which what she was doing in establishing schools was against the law. But she knew it was morally right. Prophetically she led people to understand what needed to be done, she witnessed by doing it and she did it all in the name of the Lord Jesus. So that was prophecy and witness.
+
 I have learned over the years that life can be very challenging, and that we can underestimate our capacity for prophecy and witness. We can misunderstand the effects of what we do and say. I have learned too that this life of mine is, in many ways, not mine. I do not know when I will die. I only know that I will, and I have learned that this time here on earth is very precious and that it was given to us so that we could try to live in love for others and through them for Christ.
 
 But I still have my L plates, and I am conscious that I am in the presence of those who know so much more and have given so much more than I can ever hope to do. Being a Christian is really very simple though, and as Pope Francis said two years ago on Pentecost Sunday:
 
 > “We have to let ourselves be flooded by the Holy Spirit's light, because He introduces us to the Truth of God, who is the only Lord of our life."
 
-He went on: 
+He went on:
 
 > "You cannot be a 'part time' Christian, [a Christian] in some moments, under some circumstances, for certain decisions. You are a Christian in every moment! The truth of Christ, which the Holy Spirit teaches and gives us, involves, for always and entirely, our daily life."
  
@@ -58,19 +58,19 @@ Your role in delivering Catholic Education in the modern world is a work of both
 
 He said they must be:
 
-> “the living presence of the Gospel in the field of education, science and culture”__ and must __“know how to enter, with courage, into the Areopagus of contemporary cultures and to initiate dialogue, aware of the gift they are able to offer to all."
+> “the living presence of the Gospel in the field of education, science and culture”__ and must __“know how to enter, with courage, into the Areopagus of contemporary cultures and to initiate dialogue, aware of the gift they are able to offer to all."__
 
-> "Francis addressed the challenges you face, saying, __“Catholic schools and universities are attended by many students who are not Christian or do not believe. Catholic educational institutions offer to all an approach to education that has as its aim the full development of the person, which responds to the right of every person to access to knowledge. However, they are also called upon to offer, with full respect for the freedom of each person and using the methods appropriate to the scholastic environment, the Christian belief, that is, to present Jesus Christ as the meaning of life, the cosmos and history. 
+Francis addressed the challenges you face, saying, __“Catholic schools and universities are attended by many students who are not Christian or do not believe. Catholic educational institutions offer to all an approach to education that has as its aim the full development of the person, which responds to the right of every person to access to knowledge. However, they are also called upon to offer, with full respect for the freedom of each person and using the methods appropriate to the scholastic environment, the Christian belief, that is, to present Jesus Christ as the meaning of life, the cosmos and history.__
 
 > "Jesus began to proclaim the good news of the 'Galilee of the people', a crossroads of people, diverse in terms of race, culture and religion. This context resembles today's world, in certain respects. The profound changes that have led to the ever wider diffusion of multicultural societies require those who work in the school or university sector to be involved in educational itineraries involving comparison and dialogue, with a courageous and innovative fidelity that enables Catholic identity to encounter the various 'souls' of multicultural society."
 
-We do live in such a different world - you must educate children who live in a virtual world, who are subject to massive pressures, many of whose parents have moved on from traditional values, where children may have three parents, or two parents of the same sex, where siblings may not have a common father, where people may be unable work for generations, where they may have lost their homes to the recession, or live in fear of losing them. 
+We do live in such a different world - you must educate children who live in a virtual world, who are subject to massive pressures, many of whose parents have moved on from traditional values, where children may have three parents, or two parents of the same sex, where siblings may not have a common father, where people may be unable work for generations, where they may have lost their homes to the recession, or live in fear of losing them.
 
 We also live in a world in which the Catholic people of Ireland can be very proud of their Catholic past. So much was given by so many in so many different places by Irish Catholics. And today the people of Ireland are among the most generous in the world. The World Giving Index was published a few months ago. It reports that in 2013, when Ireland was in such a difficult place its people still managed to be ranked 4th in the world in giving behaviours.
 
 Just behind Myanmar and the US which were joint first and Canada which was third. A very significant achievement for the people of Ireland. It measured helping a stranger, donating money and volunteering time. The UK came 7th! That is real witness, and whilst many people claim that we live in post Catholic Ireland I know that so much of the volunteering, the giving and the helping is still done because people believe and can see the value of witness, even when they don’t volunteer themselves, they may give to organisations like the SVP which does so much good for people across the world, and it is a Catholic organisation.
 
-The Church has much to do in this world, and Catholic education must accept the many challenges its pupils face and help them, never forgetting what it is really all about. 
+The Church has much to do in this world, and Catholic education must accept the many challenges its pupils face and help them, never forgetting what it is really all about.
  
 Pope Francis on the first day of his Papacy said:
 
@@ -98,7 +98,7 @@ As you face the demands of curriculum, of paperwork and inevitable beaurocracy, 
 
 St Paul wrote that:
 
-> "When I was a child I spoke like a child, thought like a child, understood like a child, but when I became a man I put away childish things" 
+> "When I was a child I spoke like a child, thought like a child, understood like a child, but when I became a man I put away childish things"
 
 That should be true of all of us.  Those of my generation who grew up as Catholics were taught our faith in a very structured, way using very particular language - rosaries, benediction, lighting candles, placing all our trust in the Lord.. 
 
@@ -138,7 +138,7 @@ I was thinking about Pope Francis and some of the things he has done:
 
 The shower blocks for the homeless, inviting them for dinner, taking them into the Sistine chapel and talking to each one of them, burying the one who died in the Square in the basilica, honoured in life as he had not been honoured in death. These things make people think. they make them uncomfortable too on occasion. They challenge us all to move out of our comfort zone.
 
-He has done it too in reversing the merciless decision to exclude people for so many reasons telling priests to baptise children when the mother asks for baptism even if her circumstances do not meet church requirements, demonstrating humility on so many occasions. things of which we as a church can be proud, and things which we must, in our turn, emulate. 
+He has done it too in reversing the merciless decision to exclude people for so many reasons telling priests to baptise children when the mother asks for baptism even if her circumstances do not meet church requirements, demonstrating humility on so many occasions. things of which we as a church can be proud, and things which we must, in our turn, emulate.
 
 > In a way parents can hope that you will be able to do something they cannot.
 
@@ -150,7 +150,7 @@ Pope Benedict XVI speaking to young people in Scotland in 2010 said:
 
 There are few people who have not in the course of their lives met truly good people, holy people whose lives are lived in and for Christ, informed by the presence of the Holy Spirit and who know that they are on the way home to the Father who made them. They will probably not talk of these things. People generally don't.
 
-However it is their constant references to the things of God, to thanking God for good things, for happy moments, for those whom he sends into our lives, for the world in which we  spend our lives, their prayer when things are difficult or when we face moments of grief and tragedy, their ability to live through the most difficult and challenging moments in faith, knowing that even when God seems not be there, he really is there, and it is just that we can not, for that moment, that time, hear his voice, which mark them as people of God.  
+However it is their constant references to the things of God, to thanking God for good things, for happy moments, for those whom he sends into our lives, for the world in which we  spend our lives, their prayer when things are difficult or when we face moments of grief and tragedy, their ability to live through the most difficult and challenging moments in faith, knowing that even when God seems not be there, he really is there, and it is just that we can not, for that moment, that time, hear his voice, which mark them as people of God. 
 
 They live their lives in witness and prophecy. For me, those people who have walked into my life, and there have been many of them, have enriched my life, helped me to come to some understanding of what may on occasion be apparently  inexplicable, and have given me the sense and the knowledge of the presence of God's love in my life and of the impact of his grace on me.  It was not just their  kindness, their humanity, their goodness.  It was their faith which is so much more profound than that goodness,which helps me to comprehend the presence of God and which has helped me in the journey to try to know God, to love him and to serve him in all that I do and with all whom I meet, which is the essence of my existence.
 
@@ -186,9 +186,9 @@ This is the work which you do,  it is great work. You have great opportunities,
 
 And so I went to a good nun who had kept me going over the four years, and told her I was leaving.  I would not do my A levels.  I had had enough.  And she tried to dissuade me, pointing out that hope lay through A levels and education into the future. But I left anyway, catching the bus down to the railway station, and as I stood on the platform waiting for the train, she appeared with a packed lunch for me.
 
-I went home that day, wondering in a slightly bemused way at the packed lunch.  When I got home I realised that this was not going to solve anything, and so after a few hours I went back to school and the rest is history.  It was her kindness, but above all that simple act that said if you must do this thing that I don’t want you to do, then go with my blessing and some food for the journey, that gave me a different understanding of where I was in the world.  
+I went home that day, wondering in a slightly bemused way at the packed lunch.  When I got home I realised that this was not going to solve anything, and so after a few hours I went back to school and the rest is history.  It was her kindness, but above all that simple act that said if you must do this thing that I don’t want you to do, then go with my blessing and some food for the journey, that gave me a different understanding of where I was in the world. 
 
-My guess is that you too will make such a difference for a child whom you encounter in the course of your working day.  And you know something, you may never even know what it is that you have done.  But you will have made such a difference because you care and because you want to do more than teach a subject. You want to educate a child and to help to prepare them to take their place in the world, filled with hope, and with the gift of prophecy and the courage to witness. 
+My guess is that you too will make such a difference for a child whom you encounter in the course of your working day.  And you know something, you may never even know what it is that you have done.  But you will have made such a difference because you care and because you want to do more than teach a subject. You want to educate a child and to help to prepare them to take their place in the world, filled with hope, and with the gift of prophecy and the courage to witness.
 
 Pope Francis said that:
 
@@ -200,9 +200,9 @@ They may try to use the forces of the law against you - when I think back to som
 
 On 14 March 1977 he preached at the funeral Mass for his friend Fr. Rutilio Grande, SJ who was shot along with a young boy and an old man travelling from Aguilares to celebrate the Eucharist in El Paisnal. He must have known, having seen what he had seen, what danger he himself was in. Yet, speaking in the language of liberation theology, so important across South America, so challenging to the Church, yet so true in its post Vatican II demands that we really become a church for the poor, he said this:
 
-> "My sisters and brothers, The liberation that Father Grande preached is inspired by faith, a faith that speaks to us about eternal life, a faith that he, with his face raised toward heaven and accompanied by two campesinos, offered up in its totality and perfection: liberation which culminates with happiness with God; liberation which brings about a repentance for sin, liberation based on Christ, the only saving power. This is the liberation that Father Rutilio Grande preached and therefore, he has lived the Church’s message." 
+> "My sisters and brothers, The liberation that Father Grande preached is inspired by faith, a faith that speaks to us about eternal life, a faith that he, with his face raised toward heaven and accompanied by two campesinos, offered up in its totality and perfection: liberation which culminates with happiness with God; liberation which brings about a repentance for sin, liberation based on Christ, the only saving power. This is the liberation that Father Rutilio Grande preached and therefore, he has lived the Church’s message."
 
-Three years later Archbishop Romero was murdered as he said Mass in his Cathedral. 
+Three years later Archbishop Romero was murdered as he said Mass in his Cathedral.
 
 So this business of giving witness and of being prophetic can be very challenging. And when that happens Pope Francis has some words for us:
 
