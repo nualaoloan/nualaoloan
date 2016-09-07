@@ -4,7 +4,7 @@ title: "Nuala O’Loan ‘appalled’ at Garda referendum involvement"
 categories: policing
 location: The Irish Catholic
 ---
-###Respected policing expert says Gardaí are engaging in political campaign
+### Respected policing expert says Gardaí are engaging in political campaign
 
 An internationally-respected expert on police accountability has said she was “appalled” to learn of Garda involvement in events pushing a ‘yes’ vote in the coming marriage referendum.
  
