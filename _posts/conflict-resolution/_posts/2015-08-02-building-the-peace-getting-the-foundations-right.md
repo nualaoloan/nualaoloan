@@ -4,7 +4,7 @@ title: Building the Peace - Getting the Foundations Right
 categories: conflict-resolution
 location: Corrymeela
 ---
-###Introduction
+### Introduction
 
 Good afternoon.  It is very good to be here with you to participate in the celebration of the 50th anniversary of the founding of Corrymeela. This property where you now sit was purchased by the Rev Ray Davey and his QUB students for £7,000 in early 1965. That money, which was a mighty sum in those days, about ten times the annual salary, was raised within 10 days: testament to the courage and determination of those involved.
 
@@ -16,7 +16,7 @@ I came to Northern Ireland in 1976, when times were pretty bad and  I fairly qui
 
 Now, 50 years later, you have almost 40 full time staff, you have 20 year–long volunteers and interns, and hundreds of other shorter term volunteers. Many of you have been working on the site for decades, giving so generously of your time and energy to others service to the work. I would like to pay tribute to all who have worked here, and to remember all those whose work here on earth is done, but most particularly to remember the faith and determination of Ray Davey and of his gentle and courageous wife Kathleen.  And since this is place founded on Christianity, I give thanks to the Lord for the generosity, the compassion, the humour, the energy and the love that has made it all possible.
 
-###Where we were
+### Where we were
 
 It can seem almost unreal now when we see on documentaries the old film footage of the years of the Troubles.  I spoke recently in Ballycastle about a book I launched a book last year by Eimear O’Callaghan, Belfast Days - a 1972 Teenage Diary.  It recounts graphically the reality of life in those dark and difficult days, all intertwined with the normal preoccupations of a young girl growing up with her friends and family.  It is very challenging to read the story of our past, to watch the film footage of those early days, to remember those awful nights when Belfast was subjected to multiple bomb threats and attacks, when without sat nav, and often without street maps, we tried to find our way through the diversions to home, being able to take only one road and ending up often in alien territory, recognisable as alien by the painted kerb stones, the flags and the murals which were so much part of our culture!  it didn't matter whether one was a Christian Catholic or a Christian Protestant, one knew that the reality was that one was in territory where one would be better not to be.
 
@@ -26,7 +26,7 @@ I remember too the students who used to come and tell me of being picked up by t
 
 During the bad years some 116 people died in the Republic of Ireland. There were over 3600 terrorist related murders in Northern Ireland and  some 50,000 injuries as a consequence of the security situation here over the thirty eight years. The Victims Commission estimated that the conflict resulted in 500,000 'victims' in Northern Ireland. It defines 'victims' as those who are directly affected by ‘bereavement', 'physical injury' or 'trauma' as a result of the conflict.
 
-###Our present reality
+### Our present reality
 
 Now children play once more in summer, and rioting is not the inevitable occurrence which they must face.  We do not see soldiers on our streets. But we still have paramilitary violence and we still have too much sectarianism. In the year ending 31 March 2015 PSNI statistics show that there were 3 deaths due to the security situation, 94 shootings and assaults by paramilitaries of which 48 were by loyalists and 46 by republicans.  There were 73 shooting incidents and 26 bombing incidents. 58 firearms were recovered, 22.94 kgs of explosives and 4,569  rounds of explosives were recovered.
 
@@ -36,11 +36,11 @@ Much has been achieved. We have had ceasefires, disarmament, decommissioning, pr
 
 And it is normal too that after such conflict there will be a debate, whether acknowledged or unacknowledged, about the legacy of the past, about its capacity to undo the present, and about the cost, both of addressing past injustice, and of failing so to do.  Northern Ireland is no different from other conflicts in this respect. Different solutions have been found across the world to deal with different elements of the problem - truth commissions, various forms of reparation, resettlement of displaced people, reintegration of participants into society, disarmament and decommissioning.  The models are there.  So why is dealing with the past such a difficult issue for Northern Ireland?
 
-###Our solutions
+### Our solutions
 
 What do we need to do?  The answers are fairly simple and we have identified them as a people, most recently in the Stormont House Agreement.
 
-###The solutions include:
+### The solutions include:
 
 - A Commission on Flags, Identity, Culture and Tradition which was to be established by June 2015 to report within 18 months of its being established,
 - Powers to take responsibility for parades and related protests should, in principle, be devolved to the NI Assembly,
@@ -64,7 +64,7 @@ Given that it is all the more imperative that governments and people act now to 
 
 Somehow our Governments and we as a society, have to find within ourselves the capacity and the willingness to build our peace.  Knowing what we need to do we must find the way forward together because people are still suffering the aftermath of the Troubles on a daily basis.  
 
-###Ongoing problems
+### Ongoing problems
 
 There are massive inadequacies in providing services on the ground to victims.  We have 91 victims organisations, a Victims and Survivors Service, a publicly funded Victims and Survivors Forum, and at last a new Victims’ Commissioner.
 
@@ -84,11 +84,11 @@ We spent £12m between July 2013 and last October 2014, on the Twaddell Avenue p
 
 In the past couple of years, we have seen conflict between the Police and the Police Ombudsman, only resolved when the Police Ombudsman brought the Chief Constable to court, problems between the Coroners and the PSNI, massive problems with PSNI’s HET, now abolished, a Chief Constable who has said that he does not have the resources to deal with the past, if he is to police the present, a coronial system which is on its knees with only two Coroners currently in office, one of whom is retiring in October.  Our criminal justice system which is supposed to help deliver the Rule of Law is not working properly, and recognition of and support for the Rule of Law must be one of the foundations stones upon which we build the peace. We need more leadership in this area.   
 
-###Building trust
+### Building trust
 
 So, although so much has been done, much remains to be done. This work of peace making can only be incremental  and it can be very difficult. What then are the foundations upon we can all work to create that solid sustainable peace for which so many have yearned for so long. I believe that trust is the key to all relationships, and that trust is the product of both knowledge and understanding – when people know the other and understand the other, they see the other no longer as the other but rather as another person who shares their world.  When the person shares their world they cease to be such a threat. Part of our problem must be that we still do not, as a society, understand that our Catholicism and our Protestantism should bring us to trust one another as brothers and sisters in Christ, for that is what we are.
 
-###Truth and reconciliation
+### Truth and reconciliation
 
 Truth and reconciliation are the foundations upon which trust can grow, and from trust can emerge a society which is truly democratic, in which the rule of law exists and is respected and real, in which there is peace.  Real trust is usually the product of knowledge and understanding and relationship. This has been such a large part of the work of Corrymeela.  When people know what has happened and why, when they experience a relationship based on respect and love, they can understand, and when they understand they can make a decision as to whether to trust again.  Those who have been most seriously hurt will need time and space and reparation, whether by apology and acknowledgement of what has happened, or by the provision of resources – compensation, counselling etc.  The complexity of our current situation requires many different initiatives.
 
@@ -115,7 +115,7 @@ We need to face our truth with courage if we are to build a sustainable peace.
 
 Reconciliation, I think is a process which looks outward and forward and which brings together elements which belong together, but which have been torn apart. In our Church sense we talk about reconciliation as being the process of acknowledgement of wrong doing, of repentance, of a commitment to make reparation and a desire never to be separated again, and of forgiveness. That process can apply to society. It needs trust and trust has been absent from our society, and from so many others which have been in conflict for decades. Reconciliation is about not letting the past dictate the future. It is about bringing together the goodness of all the disparate parts of our divided community and working on those foundations, rather than allowing the evil of the past to separate us in the future, as it has divided us in the past.  That, I think has been much of the focus of the workmen Corrymeela over the decades.
 
-###Healing
+### Healing
 
 There is also inherent in this agenda of truth and reconciliation, the concept of healing. I think healing is a process which is personal and inward looking. It is of the soul and the mind and the body. Healing is the balm for the soul, the mending of the broken, the fusing of the shattered, the making whole of that which was torn apart. I do not believe that societies heal. I believe that they may be reconciled, but it is the wounds and pains of individuals which can be healed. And sometimes it is through truth that people are finally healed.  It is fundamental to what we believe as Christians. As Jesus said “"If you continue in My word, then you are truly disciples of Mine; and you will know the truth, and the truth will make you free."
 

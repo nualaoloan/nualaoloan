@@ -14,7 +14,7 @@ Nominally in Northern Ireland we are at peace, but there is another story to be 
 
 In England and Wales 230 people were arrested for terrorist offences (only 45 of them under the Terrorism Acts) compared to Northern Ireland's 227. There is a much higher charging rate in England and Wales: 52% or 119 people were charged. 27 people were convicted of terrorism related offences compared with 18 in Northern Ireland. There are 58m people in England and Wales compared with 1.8m in Northern Ireland. We still have a significant problem with going terrorism!
 
-###Community policing and counter-terrorist policing
+### Community policing and counter-terrorist policing
 
 Our experience of policing terrorism has taught us that the way in which policing is conducted in these circumstances is enormously important. As I said, ordinary policing has to continue side by side with counter-terrorist policing. In conducting counter terrorist policing the contribution that the people can make should never be ignored. Terrorists need community support. They need places to store things, eyes to watch what is going on, safe houses, and many other things (and people very often do these things for them because they know that if they do not help they will be attacked and even murdered.) There will be those within the community who can alert the security forces to what is going on. It may be dangerous for them to do so. However they may wish to help. Where communities, for whatever reason, harbour terrorists, those communities will become dangerous places for the police and security forces. We had 302 police officers, and 709 military personnel murdered, as well as some 2600 civilians.
 
@@ -22,7 +22,7 @@ However there is a big risk that in trying to deal with this situation those who
 
 In Northern Ireland there was significant alienation of the people from the police on both sides of our divided community.
 
-###The Northern Ireland policing solution
+### The Northern Ireland policing solution
 
 Our policing situation was very difficult and as part of the negotiations for peace, following the IRA ceasefire in 1994 an Independent Commission of Inquiry into policing was established. The Commission was tasked to consult widely and make recommendations, based on a set of core principles. These were that the new Police Service should:
 
@@ -39,7 +39,7 @@ It is important too to observe that in a conflicted society, policing is but one
 
 Police officers have powers to arrest, detain, enter homes and offices and search them, and to take away material which may be relevant to a criminal investigation. They prepare the prosecution files which inform a court in its deliberations as to the innocence or guilt of a defendant. They also have limited power to use force which is proportionate and necessary when carrying out their duties. It is those powers, and the occasions of abuse of them which necessitate accountability for the systems, policies, practices and manner of policing.
 
-###Why do things go wrong?
+### Why do things go wrong?
 
 When contemplating how to achieve the best possible policing in a terrorist situation there are a number of factors which must be taken into account, because they are the factors which will either prevent or contribute to policing which is not consistent with the law or with the international standards. The question I want to address first is why do things go wrong?
 
@@ -94,7 +94,7 @@ withholding information about the location to which a group of murder suspects h
 - Carrying on policing during this protracted and terrible period inevitably led to serious levels of post traumatic stress disorder both among serving and retired police officers;
 - There were allegations during the Troubles that police operated a shoot to kill policy – using lethal force where lesser force would have sufficed to bring terrorists under control.
 
-###The impact on the people and police of Northern Ireland
+### The impact on the people and police of Northern Ireland
 
 Police officers became focussed on the need to stay alive. Their performance of their policing duties in very difficult areas inevitably took second place to their wish to stay alive. For their families there was the daily fear that the mother or father, husband, wife, daughter or son who went out to work as a police officer would be murdered that day and would not come home to them. Police officers in this situation often kept their occupation secret, so as to protect not only themselves but their families.
 
@@ -104,6 +104,6 @@ In essence, what happened in Northern Ireland as in so many conflict situations 
 
 In addition to this the reality is that those engaged in armed conflict need the protection and support of the community from which they operate. They need places to store things, eyes to watch what is going on, safe houses, and many other things (and people very often do these things for them because they know that if they do not help they will be attacked and even murdered.). Where communities, for whatever reason, harbour terrorists, those communities will become dangerous places for the police.. There will be those within the community who can alert the security forces to what is going on. It may be dangerous for them to do so. In Northern Ireland we saw many people abducted, tortured and left dead, usually in lonely country roads as a warning to others not to engage with the security forces.
 
-###Community policing and counter-terrorist policing
+### Community policing and counter-terrorist policing
 
 Our experience of policing terrorism has taught us that the way in which policing is conducted in these circumstances is enormously important. Despite all the difficulties, ordinary policing has to continue side by side with counter-terrorist policing. Ultimately policing can only be effective with the consent of those who are policed. In conducting counter terrorist policing the contribution that the people can make should never be ignored. International experience indicates that if policing is repressive and does not comply with legal and basic human rights standards, then the people become alienated from policing, and in turn policing becomes less effective. One of the biggest dangers of counter-terrorist policing, and of the policing of international serious organised crime must be that it will grow the very problem which it seeks to defeat. Lawful and Human Rights compliant policing will encourage the mass of the community to co-operate with the police.

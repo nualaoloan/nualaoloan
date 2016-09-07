@@ -8,7 +8,7 @@ Good morning, Ladies and Gentlemen, I am very pleased to be here with you and to
 
 International experience indicates that if policing is corrupt, inefficient, repressive, or does not comply with legal and basic human rights standards, then the people who are policed become alienated from policing, and in turn, policing becomes less effective. Resentment grows where, as happened here for example, there is evidence that speeding penalty points were removed from powerful people’s records in circumstances which did not justify their removal. Resistance grows where young people, enjoying a night out encounter the use of excessive force, rather than creative managed policing designed to minimise trouble. Lawful and Human Rights compliant policing will encourage the mass of the community to co-operate with the police.
 
-###The principles which underpin the Northern Ireland policing solution
+### The principles which underpin the Northern Ireland policing solution
 
 I was asked to talk about my experiences in police accountability. It all starts with the Patten Commission, which identified a set of core principles for a policing service which the people could trust. The new Police Service should:
 
@@ -27,7 +27,7 @@ In policing and security terms there must be clarity of roles between the key pl
 
 To facilitate effective policing there must be an adequate and effective intelligence process, and there must be accountability by the police for the extensive powers which they hold over people’s lives and for the systems, policies, practices and manner of policing. Police officers have powers to arrest, detain, enter homes and offices and search them, and to take away material which may be relevant to a criminal investigation. They prepare the prosecution files which inform a court in its deliberations as to the innocence or guilt of a defendant. They also have limited power to use force which is proportionate and necessary when carrying out their duties. At the end of the day policing is most effective when it is done in cooperation with, and with the support of the community being policed.
 
-###Why do things go wrong?
+### Why do things go wrong?
 
 When contemplating how to achieve the best possible policing and security there are a number of factors which must be taken into account, because they are the factors which will either prevent or contribute to policing and security which is consistent with the law or with the international standards. The question I want to address first is why do things go wrong?
 
@@ -80,7 +80,7 @@ In addition to these principles there are the protections articulated in the Uni
 
 Where suspicions emerge that those entrusted with the administration of policing and security are not compliant with the Rule of Law it will have a significant and damaging effect on all forms of stability, including economic investment. There is a very real need to understand that corruption takes many forms. It is not just the giving and receiving of bribes. There is a need, too, to know how it can develop and how destructive it is. Redressing such instability will be a long process.
 
-###The NI Solution
+### The NI Solution
 
 Three major acts of parliament created a new order:
 1. The Northern Ireland Act 1998, which created new institutions of Government;
@@ -91,7 +91,7 @@ Police accountability developed through:
 1. Accountability to parliament through parliamentary questions, inquiries etc.
 2. Accountability to the law through the courts and three new structures:
 
-###The Northern Ireland Policing Board
+### The Northern Ireland Policing Board
 
 This is an independent public body made up of 19 civilian political and independent members established to secure an effective, efficient and impartial police service which has the confidence of the whole community. It was established by Parliament in the [Police (NI) Act 2000.](http://www.legislation.gov.uk/ukpga/2000/32/contents)
 
@@ -103,7 +103,7 @@ This model involves both politicians who are appointed by their parties, and ind
 
 There may be police officers who want to keep you remote, who will overload you with paper, talk in police jargon and answer the questions they would prefer that you asked, if you do not have a comprehensicve understanding of the issues. You will need a degree of courage and the ability to challenge the uniformed ranks! The hardest challenge is working out what the right question in any specific area is.
 
-###Community and Police Safety Partnerships
+### Community and Police Safety Partnerships
 
 Community and Police Safety Partnerships were created to enable citizens to call their local (District) police commander to account for the way in which policing is delivered in the district. Depending on the size of the area 12 – 19 people are appointed to the Partnership, which is managed by the Policing Board. They are unpaid and meet up to ten times a year. It has seemed to me that this is a very important arrangement.
 
@@ -129,7 +129,7 @@ Money can be taken from the police budget because they will no longer have to co
 
 HMI, which corresponds, I think, to your Garda inspectorate, really has a function of ensuring that police policy and practice is consistent across the country and that its policies are reflective of global best practice.
 
-###Making independent police accountability effective – the basics
+### Making independent police accountability effective – the basics
 
 - Compliance with the rule of law;
 - Independence and impartiality;
@@ -211,7 +211,7 @@ It must:
 - Have powers to access police intelligence and data systems. This is currently the subject of legal action in the North, and has been the subject of major problems between AGS and GSOC. That is not surprising, but any democracy which seeks the security of a fully accountable police service must allow complete access. It is accorded to independent police accountability organisations across the world from England to Jamaica to Brazil;
 - Have powers to use all necessary ancillary support e.g. forensic science, photography, medical evidence etc., where they are available.
 
-###Growing community confidence in policing through independent investigation
+### Growing community confidence in policing through independent investigation
 
 There are certain minimum things which can be done to grow confidence both in policing and the accountability organisation:
 
@@ -256,7 +256,7 @@ Often our investigation indicated that there was no wrongdoing by police – for
 
 When examining an officer’s conduct criminal law issues would be investigated, together with any associated disciplinary matters. For example, any force used must be only that which is absolutely necessary – someone who is unarmed and running away should not be shot if they do not represent a threat to the life of another person - other methods should be used to restrain them if detention or restraint is necessary. Similarly if a police officer has to use force to arrest or detain someone it should be only necessary force which is proportionate to the situation.
 
-###Improving policing through independent investigation
+### Improving policing through independent investigation
 
 - Identification of training needs;
 - Identification of systemic failings;
@@ -300,7 +300,7 @@ Sometimes the beginning of these activities is faltering, and there is concern. 
 What did our people think of us? 86% believed that we were independent. 78% of the people believed that we were impartial. 84% thought we were fair. And even police officers who had been investigated and were anonymously surveyed reported high levels of
 confidence – 90% of police officers, who had been investigated, believed the independent investigator was impartial, 84% believed they were fair and 92% believe they were professional.
 
-###Conclusion
+### Conclusion
 
 Independent investigation of police and security sector wrongdoing is one tool which, used in conjunction with proper leadership, management, training, equipment, resources, policies and practices can bring about much better policing and security. Positive leadership, not just warm words are necessary, on the part of all the leaders of institutions throughout the criminal justice system to accommodate the new order It can engender confidence both in the independent investigative system and in policing itself. It can be a challenge for police. In Northern Ireland the police commanders recognised the benefits of the system and the people had confidence in it.
 
