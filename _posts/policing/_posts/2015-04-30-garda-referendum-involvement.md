@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuala O’Loan ‘appalled’ at Garda referendum involvement"
+title: "Nuala O'Loan 'appalled' at Garda referendum involvement"
 categories: policing
 location: The Irish Catholic
 ---
