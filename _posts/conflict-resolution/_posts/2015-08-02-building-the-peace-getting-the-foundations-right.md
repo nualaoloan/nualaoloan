@@ -3,6 +3,7 @@ layout: post
 title: Building the Peace - Getting the Foundations Right
 categories: conflict-resolution
 location: Corrymeela
+published: true
 ---
 ### Introduction
 
