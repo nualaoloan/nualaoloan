@@ -3,6 +3,7 @@ layout: post
 title: Building the Peace - Getting the Foundations Right
 categories: conflict-resolution
 location: Corrymeela
+published: true
 ---
 ### Introduction
 
@@ -12,7 +13,7 @@ I read that Corrymeela has three possible meanings: “Hill of Harmony,” “Hi
 
 > respite from the violence of those days: the holidays, weekends, summer breaks, camps which were so much part of life here at the time
 
-I came to Northern Ireland in 1976, when times were pretty bad and  I fairly quickly became aware of Corrymeela, firstly in terms of what I understood as respite from the violence of those days: the holidays, weekends, summer breaks, camps which were so much part of life here at the time. So many of you know so much more than I do about those days, about this place you describe as one of gathering, work, faith and discussion; about the bringing together of people of different backgrounds, different political and religious beliefs and different identities together, about the occasionally bewildered parents and children who came to this rugged North Antrim coast, which can seem so wild and inhospitable and grey, but which  became a place of refuge, respite, reconciliation and relaxation for thousands of people.   The work which has been done here has been both personal and communal.  It has taken so many forms,  individual, community based, sector based, cross community, economic, developmental, and a huge contribution has been made here to the evolution of peace in our troubled country.
+I came to Northern Ireland in 1977, when times were pretty bad and  I fairly quickly became aware of Corrymeela, firstly in terms of what I understood as respite from the violence of those days: the holidays, weekends, summer breaks, camps which were so much part of life here at the time. So many of you know so much more than I do about those days, about this place you describe as one of gathering, work, faith and discussion; about the bringing together of people of different backgrounds, different political and religious beliefs and different identities together, about the occasionally bewildered parents and children who came to this rugged North Antrim coast, which can seem so wild and inhospitable and grey, but which  became a place of refuge, respite, reconciliation and relaxation for thousands of people.   The work which has been done here has been both personal and communal.  It has taken so many forms,  individual, community based, sector based, cross community, economic, developmental, and a huge contribution has been made here to the evolution of peace in our troubled country.
 
 Now, 50 years later, you have almost 40 full time staff, you have 20 year–long volunteers and interns, and hundreds of other shorter term volunteers. Many of you have been working on the site for decades, giving so generously of your time and energy to others service to the work. I would like to pay tribute to all who have worked here, and to remember all those whose work here on earth is done, but most particularly to remember the faith and determination of Ray Davey and of his gentle and courageous wife Kathleen.  And since this is place founded on Christianity, I give thanks to the Lord for the generosity, the compassion, the humour, the energy and the love that has made it all possible.
 
